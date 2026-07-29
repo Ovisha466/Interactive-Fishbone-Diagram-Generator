@@ -48,3 +48,42 @@ A synthetic Excel dataset is included to demonstrate the application's functiona
 > **Note:** The original version of this project was developed using enterprise RMA data. To maintain confidentiality, the dataset included in this repository is completely synthetic and contains no proprietary information.
 
 ---
+---
+
+# 📸 Application Preview
+
+## 🖥️ Home Screen
+
+![GUI Home](01_GUI_Home.png)
+
+---
+
+## 📂 Example 1 – Configuration
+
+### Part 1
+
+![Example 1 Config Part 1](02_Example1_Config_Part1.png)
+
+### Part 2
+
+![Example 1 Config Part 2](03_Example1_Config_Part2.png)
+
+### Generated Fishbone Diagram
+
+![Example 1 Output](04_Example1_Output.png)
+
+---
+
+## 📂 Example 2 – Configuration
+
+### Part 1
+
+![Example 2 Config Part 1](05_Example2_Config_Part1.png)
+
+### Part 2
+
+![Example 2 Config Part 2](06_Example2_Config_Part2.png)
+
+### Generated Fishbone Diagram
+
+![Example 2 Output](07_Example2_Output.png)
