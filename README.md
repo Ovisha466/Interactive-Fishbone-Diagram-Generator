@@ -31,15 +31,25 @@ This project enables users to load an Excel dataset, dynamically configure hiera
 ## 📁 Repository Structure
 
 ```text
-src/
-    fishbone_generator.py
-
-Dummy_RMA_Sample_20Rows.xlsx
-
-README.md
+Fishbone-Diagram-Generator/
+│
+├── src/
+│   └── fishbone_generator.py
+│
+├── Dummy_RMA_Sample_20Rows.xlsx
+├── requirements.txt
+├── LICENSE
+├── README.md
+└── Project screenshots
 ```
 
----
+## 📄 Included Files
+
+- **fishbone_generator.py** – Main application source code.
+- **Dummy_RMA_Sample_20Rows.xlsx** – Synthetic dataset for demonstration.
+- **requirements.txt** – Python dependencies.
+- **LICENSE** – MIT License.
+- **README.md** – Project documentation and usage guide.
 
 ## 📌 Sample Dataset
 
