@@ -97,3 +97,40 @@ A synthetic Excel dataset is included to demonstrate the application's functiona
 ### Generated Fishbone Diagram
 
 ![Example 2 Output](07_Example._2_Output.png)
+
+---
+
+# 🚀 How to Run
+
+## 1. Clone the Repository
+
+```bash
+git clone https://github.com/YOUR_USERNAME/YOUR_REPOSITORY.git
+```
+
+## 2. Navigate to the Project Directory
+
+```bash
+cd YOUR_REPOSITORY
+```
+
+## 3. Install the Required Dependencies
+
+```bash
+pip install -r requirements.txt
+```
+
+## 4. Run the Application
+
+```bash
+python src/fishbone_generator.py
+```
+
+## 5. Load the Sample Dataset
+
+After launching the application:
+
+- Click **Choose Excel File**
+- Select **Dummy_RMA_Sample_20Rows.xlsx**
+- Configure the desired Problem Statement, Filters, and Bone Hierarchy.
+- Click **Generate Fishbone** to visualize the Root Cause Analysis.
