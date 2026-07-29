@@ -111,7 +111,7 @@ git clone https://github.com/Ovisha466/Interactive-Fishbone-Diagram-Generator.gi
 ## 2. Navigate to the Project Directory
 
 ```bash
-cd YOUR_REPOSITORY
+cd Interactive-Fishbone-Diagram-Generator
 ```
 
 ## 3. Install the Required Dependencies
