@@ -105,7 +105,7 @@ A synthetic Excel dataset is included to demonstrate the application's functiona
 ## 1. Clone the Repository
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/YOUR_REPOSITORY.git
+git clone https://github.com/Ovisha466/Interactive-Fishbone-Diagram-Generator.git
 ```
 
 ## 2. Navigate to the Project Directory
