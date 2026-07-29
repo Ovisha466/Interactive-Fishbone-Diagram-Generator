@@ -1370,7 +1370,7 @@ class FishboneConfigurator:
         ttk.Button(self.scrollable_frame, text="Generate Fishbone", command=self.generate_fishbone).pack(pady=10)
 
     def choose_file(self):
-        path = filedialog.askopenfilename(filetypes=[("Excel files", ".xls;.xlsx;.xlsm"), ("All files",".*")])
+        path = filedialog.askopenfilename(filetypes=[("Excel files", "*.xls;.*xlsx;.*xlsm"), ("All files",".*")])
         if path:
             self.selected_file["path"] = path
             self.file_label.config(text=path.split('/')[-1])
